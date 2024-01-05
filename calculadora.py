@@ -1,6 +1,6 @@
 #calculadora.py
-def suma(a, b):
-    return a + b
+def suma(a, b, c):
+    return a + b + c
 
 def resta(a, b):
     return a - b
